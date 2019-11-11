@@ -1,1 +1,1 @@
-# Here are notes for the kubernetes course
+# Here are the notes for the kubernetes course
